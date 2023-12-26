@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/FengyiEE2000/fengyiee2000.github.io
+  repo: https://github.com/FengyiEE2000/FengyiEE2000.github.io.git
   branch: master
